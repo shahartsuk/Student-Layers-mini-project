@@ -1,0 +1,11 @@
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\bin\Debug\Students.entities.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\bin\Debug\Students.entities.pdb
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\bin\Debug\Students.DAL.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\bin\Debug\Students.model.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\bin\Debug\Students.DAL.pdb
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\bin\Debug\Students.model.pdb
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\obj\Debug\Students.entities.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\obj\Debug\Students.entities.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\obj\Debug\Students.entities.csproj.CopyComplete
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\obj\Debug\Students.entities.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.entities\obj\Debug\Students.entities.pdb

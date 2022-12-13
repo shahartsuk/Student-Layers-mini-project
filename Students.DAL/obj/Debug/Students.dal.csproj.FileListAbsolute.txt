@@ -1,0 +1,6 @@
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.DAL\bin\Debug\Students.DAL.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.DAL\bin\Debug\Students.DAL.pdb
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.DAL\obj\Debug\Students.dal.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.DAL\obj\Debug\Students.dal.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.DAL\obj\Debug\Students.DAL.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.DAL\obj\Debug\Students.DAL.pdb

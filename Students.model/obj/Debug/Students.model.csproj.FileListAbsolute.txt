@@ -1,0 +1,6 @@
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.model\bin\Debug\Students.model.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.model\bin\Debug\Students.model.pdb
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.model\obj\Debug\Students.model.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.model\obj\Debug\Students.model.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.model\obj\Debug\Students.model.dll
+C:\Users\shaha\source\repos\StudentProjectLayers\Students.model\obj\Debug\Students.model.pdb
